@@ -33,7 +33,7 @@ class PostMessage extends Component {
           </Col>
         </FormGroup>
 
-        <FormGroup row>
+        <FormGroup >
           <Label sm={2} for="image">
             Image
           </Label>
